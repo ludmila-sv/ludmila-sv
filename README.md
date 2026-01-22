@@ -1,4 +1,4 @@
-- 👋 Hi, I'm a WordPress Developer. For the last 3 years, I've been developing and maintaining exclusively Wordpress sites, though I had worked with other cms too
+- 👋 Hi, I'm a WordPress Developer. For the last 6 years, I've been developing and maintaining exclusively Wordpress sites, though I had worked with other cms too
 (such as Shopify, Joomla, Drupal, etc).
 - 👀 I’m interested in WordPress, Woocommerce, Shopify, php, css, js.
 - 🌱 I’m currently mastering in React, vue, typescript.
